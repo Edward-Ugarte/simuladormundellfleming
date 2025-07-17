@@ -17,3 +17,20 @@ Se emplean múltiples variables combinadas para sintetizar el efecto conjunto de
 - Ejecutar el script
 - Ajustar parámetros y analizar resultados
 - Recomendado a Economistas  en nivel avanzado
+
+
+
+# --- Variables externas y macro contables ---
+
+# --- Brechas y regla de Taylor ---
+
+# --- Curvas base IS y LM ---
+
+# --- Curvas con política monetaria ---
+
+# --- Aplicación de shocks fiscales y externos ---
+
+
+# --- Visualización de resultados  ---
+
+# --- Informe comparativo de escenarios ---
