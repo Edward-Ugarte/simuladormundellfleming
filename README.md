@@ -16,4 +16,4 @@ Se emplean múltiples variables combinadas para sintetizar el efecto conjunto de
 - Cargar datosmacro.gdt
 - Ejecutar el script
 - Ajustar parámetros y analizar resultados
-- Recomendado a Ecponomistas  en nivel avanzado
+- Recomendado a Economistas  en nivel avanzado
