@@ -1,0 +1,27 @@
+# --- Cargar base de datos económica ---
+clear
+open "datosmacro.gdt"
+setobs 12 2022:7 --time-series  # Mensual desde julio 2022
+
+# --- Parámetros económicos ajustables ---
+    # Meta del BCRP
+    # Estímulo fiscal
+    # Contracción monetaria
+    # Depreciación del tipo de cambio
+    # Shock externo de precios
+    # Tasa internacional de referencia
+
+# --- Variables externas y macro contables ---
+
+# --- Brechas y regla de Taylor ---
+
+# --- Curvas base IS y LM ---
+
+# --- Curvas con política monetaria (Taylor) ---
+
+# --- Aplicación de shocks fiscales y externos ---
+
+
+# --- Visualización de resultados (sin títulos) ---
+
+# --- Informe comparativo de escenarios ---
