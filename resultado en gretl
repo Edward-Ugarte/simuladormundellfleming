@@ -1,15 +1,10 @@
 # --- Cargar base de datos económica ---
 clear
 open "datosmacro.gdt"
-setobs 12 2022:7 --time-series  # Mensual desde julio 2022
+setobs 12 2022:7 --time-series 
+# simulador IS–LM–BP está configurado para trabajar con series mensuales desde julio de 2022 hasta junio de 2025
 
 # --- Parámetros económicos ajustables ---
-    # Meta del BCRP
-    # Estímulo fiscal
-    # Contracción monetaria
-    # Depreciación del tipo de cambio
-    # Shock externo de precios
-    # Tasa internacional de referencia
 
 # --- Variables externas y macro contables ---
 
@@ -22,6 +17,6 @@ setobs 12 2022:7 --time-series  # Mensual desde julio 2022
 # --- Aplicación de shocks fiscales y externos ---
 
 
-# --- Visualización de resultados (sin títulos) ---
+# --- Visualización de resultados  ---
 
 # --- Informe comparativo de escenarios ---
